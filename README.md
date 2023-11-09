@@ -1,6 +1,6 @@
 # Renee-ToolBox
 
-I've put together this utility to simplify installs with handy tools, fine-tune system settings with tweaks, and effortlessly handle software installations using Winget.
+I've put together this utility to quickly find handy tools, fine-tune system settings with tweaks, and effortlessly handle software installations using Winget.
 
 ![screenshot](screenshot.png)
 
