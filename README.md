@@ -2,7 +2,7 @@
 
 I've put together this utility for swift access to various Windows components. It also allows you to effortlessly tweak some simple settings and conveniently install software using the Winget tool.
 
-![screenshot](screenshot.png)
+<img src="screenshot.png" width="400">
 
 ## Usage:
 
@@ -13,6 +13,3 @@ Launch Command:
 
 ```
 iwr -useb raw.githubusercontent.com/Droxx-y/Renee-ToolBox/main/Renee_Toolbox.ps1 | iex
-```
-
-<img src="screenshot.png" width="400">
