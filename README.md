@@ -12,5 +12,5 @@ The recommended way is to right-click on the start menu and select (PowerShell A
 Launch Command:
 
 ```
-iwr -useb https://christitus.com/win | iex
+iwr -useb raw.githubusercontent.com/Droxx-y/Renee-ToolBox/main/Renee_Toolbox.ps1 | iex
 ```
