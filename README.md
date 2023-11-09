@@ -1,6 +1,6 @@
 # Renee-ToolBox
 
-I've put together this utility to quickly find handy tools, fine-tune system settings with tweaks, and effortlessly handle software installations using Winget.
+I've put together this utility for swift access to various Windows components. It also allows you to effortlessly tweak some simple settings and conveniently install software using the Winget tool.
 
 ![screenshot](screenshot.png)
 
